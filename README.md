@@ -1,7 +1,7 @@
 
 # NeuroScan: Brain Tumor Detection and Classification
 
-Description: Welcome to NeuroScan, an innovative project leveraging advanced image processing techniques for the accurate detection and classification of brain tumors. The project focuses on classifying brain MRI images into four distinct categories: `glioma`, `meningioma`, `no tumor`, and `pituitary`. This comprehensive solution utilizes cutting-edge algorithms, with **EfficientNetV2B1** emerging as the top performer, achieving an impressive accuracy of `~96%`. NeuroScan enhances medical diagnostics, providing a reliable tool for identifying and categorizing brain tumors from medical imaging data. Explore the documentation and code to understand, implement, and contribute to this impactful project at the intersection of healthcare and technology.
+Welcome to NeuroScan, an innovative project leveraging advanced image processing techniques for the accurate detection and classification of brain tumors. The project focuses on classifying brain MRI images into four distinct categories: `glioma`, `meningioma`, `no tumor`, and `pituitary`. This comprehensive solution utilizes cutting-edge algorithms, with **EfficientNetV2B1** emerging as the top performer, achieving an impressive accuracy of `~96%`. NeuroScan enhances medical diagnostics, providing a reliable tool for identifying and categorizing brain tumors from medical imaging data. Explore the documentation and code to understand, implement, and contribute to this impactful project at the intersection of healthcare and technology.
 
 
 
